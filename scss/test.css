@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #111111; }
 
 .bg-darkest-gray {
-  background-color: #dddddd; }
+  background-color: #f2f2f2; }
 
 .btn-primary {
   color: white;
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 1px;
     color: #73F217; }
     .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
-      color: #dddddd;
+      color: #f2f2f2;
       outline: none; }
   .navbar-custom .navbar-nav > .active > a {
     border-radius: 0;
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-custom.affix .navbar-brand {
       font-size: 1.5em; } }
 header {
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/12.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -436,7 +436,7 @@ aside.clients img {
   margin: 50px auto; }
 
 section#contact {
-  background-color: #dddddd;
+  background-color: #e6e6e6;
   background-position: center;
   background-repeat: no-repeat; }
   section#contact .section-heading {
@@ -501,7 +501,7 @@ ul.social-buttons {
   margin-bottom: 0; }
   ul.social-buttons li a {
     display: block;
-    background-color: #dddddd;
+    background-color: #f2f2f2;
     height: 40px;
     width: 40px;
     border-radius: 100%;
@@ -563,7 +563,7 @@ ul.social-buttons {
     height: 75px;
     width: 1px;
     margin-left: 35px;
-    background-color: #dddddd;
+    background-color: #f2f2f2;
     transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     /* IE 9 */
@@ -573,7 +573,7 @@ ul.social-buttons {
     .portfolio-modal .close-modal .lr .rl {
       height: 75px;
       width: 1px;
-      background-color: #dddddd;
+      background-color: #f2f2f2;
       transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       /* IE 9 */
